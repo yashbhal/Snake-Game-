@@ -1,11 +1,4 @@
-/*
-........................................................................
-																	   .				
-	Derived from NVtianovic's Simple Snake Game						   .  	
-																	   .	
-........................................................................
-*/
-
+//Simple C++ Snake Game
 
 #include <iostream>
 #include <conio.h>
